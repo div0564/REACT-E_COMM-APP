@@ -33,7 +33,7 @@ export const PriceDetails = () => {
           key: APIKEY,
           amount: (discountedItemAmount + 100) * 100,
           curreny: "INR",
-          name: "Shopit by Prakash",
+          name: "Shopit",
           description: "Thank you for shopping with us.",
           image: "https://therightfit.netlify.app/assets/The%20Right%20Fit-logos.jpeg",
   
